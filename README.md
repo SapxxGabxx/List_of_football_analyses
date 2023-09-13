@@ -1,6 +1,8 @@
 # List_of_football_analyses
  A collection of football analytics projects
 
+ITA :
+
 - Analisi dei calci d'angolo 🚀: Questa è un'analisi comune nel calcio. È importante capire quale tipo di calcio d'angolo (rientrante o uscente) sia più efficace e produca più gol.
 
 - Percentuale di completamento dei passaggi in zona d'attacco ⚽: Questa analisi può aiutare a capire l'efficienza offensiva di una squadra.
@@ -34,3 +36,39 @@
 - Analisi delle partite in trasferta vs in casa 🏠: Ci sono differenze nelle performance di una squadra quando gioca fuori casa rispetto a quando gioca in casa?
 
 - Efficienza nelle situazioni di calcio piazzato 🎯: Oltre ai calci d'angolo, valutare l'efficienza di una squadra nelle punizioni dirette e indirette.
+
+ENG:
+
+- Analysis of corner kicks 🚀: This is a common analysis in soccer. It is important to understand which type of corner kick (returning or exiting) is most effective and produces the most goals.
+
+- Attack zone pass completion percentage ⚽: This analysis can help understand a team's offensive efficiency.
+
+- Defenders' pass completion percentage 🎯: It is important to note how defenders perform, especially under pressure. Mistakes in these situations can cost dearly.
+
+- Number of suicides in a nation during major competitions ❌: There may be a correlation, but there are multiple factors that could influence.
+
+- A team's payroll 🛡️: Although teams with higher budgets generally have a higher likelihood of success, it is not always a guarantee.
+
+- Impact of coach on a team 🤔: This is a hotly debated topic. Does the coach have a significant impact or not?
+
+- Create a passing heat map 🔥: These maps can show the areas of the field where a team or player is most active. They are useful for visualizing the flow of the game.
+
+- Analysis of defensive positions 🛡️: Studying how a team organizes defensively can provide insights into their tactics. For example, how they perform in an offside situation versus a zone or individual defense.
+
+- Effectiveness of soccer players with the "wrong" feet ❌: Analyzing how right-handed players perform with their left foot and vice versa can reveal surprising abilities.
+
+- Effectiveness under pressure 😬: Analyze how a team or player performs when under pressure (e.g., in the final minutes of a game).
+
+- Analysis of substitutions 🔄: Examine when and why substitutions are made. This can provide information about the coach's strategies and how it changes the dynamics of a match.
+
+- Injuries ❌: Analyze the frequency, severity, and causes of injuries within a team. This could reveal problems with training, equipment, or other issues.
+
+- Efficiency in penalty kicks ⚽: Analyze the success rate in penalty kicks, not only for shooters but also for goalkeepers.
+
+- Analysis of style of play 📊: Look at trends in ball possession, short vs. long passes, crosses, etc. This can help understand a team's tactical preferences.
+
+- Contribution of new signings 💸: Study the immediate impact of new players on a team. Have they been a good investment? Have they improved the team's performance?
+
+- Analysis of away vs. home games 🏠: Are there differences in a team's performance when playing away from home vs. when playing at home?
+
+- Efficiency in free kick situations 🎯: In addition to corner kicks, assess a team's efficiency in direct and indirect free kicks.
