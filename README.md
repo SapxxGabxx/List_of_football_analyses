@@ -1,7 +1,7 @@
 # List_of_football_analyses
  A collection of football analytics projects
 
-ITA :
+ITA 🇮🇹:
 
 - Analisi dei calci d'angolo 🚀: Questa è un'analisi comune nel calcio. È importante capire quale tipo di calcio d'angolo (rientrante o uscente) sia più efficace e produca più gol.
 
@@ -37,7 +37,7 @@ ITA :
 
 - Efficienza nelle situazioni di calcio piazzato 🎯: Oltre ai calci d'angolo, valutare l'efficienza di una squadra nelle punizioni dirette e indirette.
 
-ENG:
+ENG 🇬🇧:
 
 - Analysis of corner kicks 🚀: This is a common analysis in soccer. It is important to understand which type of corner kick (returning or exiting) is most effective and produces the most goals.
 
